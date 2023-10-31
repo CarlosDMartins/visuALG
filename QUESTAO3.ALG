@@ -5,10 +5,10 @@ Algoritmo "peso e altura"
 //gramas e a altura em centímetros.
 Var
 // Seção de Declarações das variáveis 
-peso: inteiro
-altura: inteiro
-gramas: inteiro
-centi: inteiro
+peso: real
+altura: real
+gramas: real
+centi: real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
